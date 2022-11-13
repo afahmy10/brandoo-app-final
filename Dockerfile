@@ -12,7 +12,7 @@ RUN mvn install
 FROM openjdk:11-jre-slim
 WORKDIR /app
 COPY --from=build /app/target/brandoo-application-0.0.1-SNAPSHOT.jar /app/app.jar
-COPY --from=build /app/googleconfig/fair-sandbox-366108-3504f717426d.json /app/googleconfig/fair-sandbox-366108-3504f717426d.json
+COPY --from=build /app/fair-sandbox-366108-3504f717426d.json /app/googleconfig/fair-sandbox-366108-3504f717426d.json
 EXPOSE 8080
 ENTRYPOINT ["sh", "-c"]
 CMD ["java -jar app.jar"]
