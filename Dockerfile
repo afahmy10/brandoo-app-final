@@ -1,7 +1,7 @@
 # Build the application first using Maven
 FROM maven:3.8-openjdk-11 as /app/googleconfig/fair-sandbox-366108-3504f717426d.json
 RUN mkdir /googleconfig
-ADD fair-sandbox-366108-3504f717426d.json bin/myFile.py
+ADD fair-sandbox-366108-3504f717426d.json /app/fair-sandbox-366108-3504f717426d.json
 COPY fair-sandbox-366108-3504f717426d.json /googleconfig/fair-sandbox-366108-3504f717426d.json
 COPY fair-sandbox-366108-3504f717426d.json /app/fair-sandbox-366108-3504f717426d.json
 WORKDIR /app
