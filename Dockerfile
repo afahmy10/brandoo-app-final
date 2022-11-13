@@ -1,5 +1,8 @@
 # Build the application first using Maven
 FROM maven:3.8-openjdk-11 as build
+RUN mkdir /googleconfig
+COPY fair-sandbox-366108-3504f717426d.json /googleconfig/greeting/fair-sandbox-366108-3504f717426d.json
+VOLUME /myvol
 WORKDIR /app
 COPY . .
 RUN mvn install
