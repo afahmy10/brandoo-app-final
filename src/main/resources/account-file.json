@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fair-sandbox-366108",
+  "private_key_id": "6718b182d0cc3aaf71d3a6a3664cd6caedefd6c9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCYERENwx7u4cpV\nm3XADuF2zmA7HhMEHxm/ZmP8Gvg3KjPwr6WoqyMOeKfKnM25ZfCJSjW/nwY31Okx\n1NDE06y4g5Xfgxj5NAMv7jfT2SDnYTZXWj8/A9ooSjpiq4906aLuDru6EJSDY3w9\nJ48GbbkOnG76D4AKTTWK/uN0DFXGP7ffocI+rjCuKtHKM+s1Zme15InHqR/Bg0eF\n268Sr8V36bePqleXjfleLLrdZ3tpck9VDA+YXBPxog7ZLZv1lI6ED1mGPNX5Kzgr\neM7ioMCnpbUWmRYtKDvsxFEMReylNMqS6+S4qahdroP752qA2VUMGgLzdGVrEiX1\nIRHNE8DvAgMBAAECggEAKeKdi2hgx1Sq+iyBYP7YTHSo3e+5Nivo2Cb4SFMXZn55\n4wRGgXBuDgje0rihE72H5RDrQBYpzMwY1VB0lpplW0dnSzLdeJrCe/vGJdSLMyA8\nKxBhFlbVyr4zWcU+lOnbpm2peKUjexM2f9O7Gf6z99nP2ZHWZ0AADQKLHQZew+WR\nUQnrwdur7TqgtwsVB3iKxDR3wThAT8p2EccPwO0ZcFFwKVp66EA9bayEk73u3ScH\n+efZsWzwuMj3Jq2YosC8C8mW1UbloUZczL37BEGC27q2oM3hiUOap0w6ek+Y0Ec5\nlc0xvQBFfDLvUnv8U6C3v2FAsFRvXUfjsXTUyc/lEQKBgQDODFporSrL9dc4GeFb\nER2n8RvAyA8L5TEMQhNgfN8603+7YyN0+w70IUbFXkTHmO1wyZk8vHXcZgr6Wo+b\nrBaevej4IYMBHIRQRDImEcAEMXidVG4+nWOykMc17OtbCfkhXTxExXgaUhgvbJRY\n1O7b8+1cXYYNpTy7VIT5qMmufwKBgQC87ooghp9tMBjN1Q5MdYXRqZSh+ZiJ1k+5\nLFL7VP/eHdiaKRJYBJSNgOLHWlr1oV3VHzWmVPAQZMW3oZJKKyNRmUUqxlW9HpGB\nNJ5lykTST+fsgRLOcNQWgOmLqQ534fTVKlRkydjKySIXE5QCbLb7MgqvSPG3IIr/\nqhxxG7iVkQKBgQCbCXB9ks7A6RonfFG01Awcca8QP3gS20EsmAs8brkI6lsSBGaJ\nft6hkuhNWcEm7kq6svY6XRPR4nYgKkQkPjhG+V5yVcTc8TgdrTKOsoxom1DGEOFi\n+8oocgdy6/GrbrWmBSF0HaFhLKRGCs0UiiOwHLpc5YIYglxQGCh2MiqOwQKBgAuJ\nfYHS9rVSNJGNKxxcKNnOwzbI6RmxrpieLksOu7kylWGElIwva2rgrfiCef955SL4\njuwjT62QmcpG4YoJ7FQ1SdX82ot77GK5ddq9aUp2erEkiKN2nFzrbleK8Uk80Rib\nRyAIe2aWtbA3D9i+DsZ0HdbqW2hVYmeOWcJGcRUhAoGAZ+zIKNumcNoQmZm8rtbX\n7R492zM4u2XHJZTnbQvF0zZWw/obO7CWj4BjV/oGV1IdJb4zK5mZ5IptVlIAA/n1\nNGNFTKCS6nixslke4+W8WiTh6gyIcucbiM5kHITsry49p26C2W3FE0uxhqAcOksv\nsmXjlMUL1wxdI9NdRcHSU+A=\n-----END PRIVATE KEY-----\n",
+  "client_email": "brandoo-bucket-account@fair-sandbox-366108.iam.gserviceaccount.com",
+  "client_id": "113789135376881901735",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/brandoo-bucket-account%40fair-sandbox-366108.iam.gserviceaccount.com"
+}
